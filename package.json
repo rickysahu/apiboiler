@@ -1,5 +1,5 @@
 {
-  "name": "1uphealth_connect_api",
+  "name": "boilerplate api",
   "main": "server.js",
   "start": "server.js",
   "dependencies": {
